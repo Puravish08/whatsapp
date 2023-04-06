@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    
+
+
+
+    <item
+
+
+        android:title="New group"
+        android:id="@+id/group"
+        android:orderInCategory="100"
+
+
+        />
+
+
+
+    <item
+
+        android:title="New Broadcast"
+        android:id="@+id/brodcast"
+        android:orderInCategory="101"
+
+        />
+
+    <item
+
+
+        android:title="Linked devices"
+        android:id="@+id/device"
+        android:orderInCategory="102"
+
+        />
+
+    <item
+
+
+        android:title="Starred messages"
+        android:id="@+id/message"
+        android:orderInCategory="103"
+
+
+
+        />
+
+    <item
+        android:title="Payment"
+        android:id="@+id/payment"
+        android:orderInCategory="104"
+
+
+
+        />
+
+    <item
+        android:title="Setting"
+        android:id="@+id/setting"
+        android:orderInCategory="105"/>
+
+
+
+
+</menu>
